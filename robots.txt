@@ -1,4 +1,4 @@
-# robots.txt — Custom Blocklist with AI & Scraper Protections + Crawl-delay
+# robots.txt — Custom Blocklist with AI and Scraper Protections and Crawl-delay
 
 # GENERAL RULES FOR ALL BOTS
 User-agent: *
